@@ -1,0 +1,8 @@
+.page{
+    padding: 2%;
+}
+
+.chartRow{
+    display: flex;
+    flex-direction: row;
+}
