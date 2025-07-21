@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SEG3125-Analytics-site/static/css/main.6a4876db.css",
+    "main.js": "/SEG3125-Analytics-site/static/js/main.88bbdf9c.js",
+    "static/js/453.7d75c27a.chunk.js": "/SEG3125-Analytics-site/static/js/453.7d75c27a.chunk.js",
+    "static/media/Valve_Player_Data.csv": "/SEG3125-Analytics-site/static/media/Valve_Player_Data.ef287cb5a12e8006c0d0.csv",
+    "static/media/logo.svg": "/SEG3125-Analytics-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SEG3125-Analytics-site/index.html",
+    "main.6a4876db.css.map": "/SEG3125-Analytics-site/static/css/main.6a4876db.css.map",
+    "main.88bbdf9c.js.map": "/SEG3125-Analytics-site/static/js/main.88bbdf9c.js.map",
+    "453.7d75c27a.chunk.js.map": "/SEG3125-Analytics-site/static/js/453.7d75c27a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4876db.css",
+    "static/js/main.88bbdf9c.js"
+  ]
+}
